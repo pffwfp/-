@@ -1,0 +1,7 @@
+{
+  "name": "ExpiryGuard",
+  "description": "Smart expiry date management for medicines and cosmetics. Track validity, get alerts, and ask AI for disposal advice.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
